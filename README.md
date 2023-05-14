@@ -6,3 +6,4 @@ cd myApp
 npm i
 npx expo start
 ```
+![Radio Buttons](./assets/)
