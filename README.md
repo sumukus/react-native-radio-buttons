@@ -8,7 +8,7 @@ npx expo start
 ```
 ![Radio Buttons](https://github.com/sumukus/react-native-radio-buttons/blob/main/assets/custom%20radio%20button%20in%20react%20native.png){ width="150" height="300" style="display: block; margin: 0 auto" }
 
-img src="https://github.com/sumukus/react-native-radio-buttons/blob/main/assets/custom%20radio%20button%20in%20react%20native.png" 
+<img src="https://github.com/sumukus/react-native-radio-buttons/blob/main/assets/custom%20radio%20button%20in%20react%20native.png" 
         alt="Picture" 
         width="800" 
         height="600" 
