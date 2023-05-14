@@ -10,6 +10,6 @@ npx expo start
         alt="Radio Buttons Image"  
         height="100%"
         width="200"
-     style={display: flex, justify-content: center}
+     style={display: "flex", justify-content: "center"}
         />
         
