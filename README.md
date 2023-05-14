@@ -9,5 +9,4 @@ npx expo start
 <img src="https://github.com/sumukus/react-native-radio-buttons/blob/main/assets/custom%20radio%20button%20in%20react%20native.png" 
         alt="Radio Buttons Image"  
         height="100%"
-        width="200"
-        />
+        width="200"/>
