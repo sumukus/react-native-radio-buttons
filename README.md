@@ -6,4 +6,4 @@ cd myApp
 npm i
 npx expo start
 ```
-![Radio Buttons]([./assets/](https://github.com/sumukus/react-native-radio-buttons/blob/main/assets/custom%20radio%20button%20in%20react%20native.png)
+![Radio Buttons](https://github.com/sumukus/react-native-radio-buttons/blob/main/assets/custom%20radio%20button%20in%20react%20native.png)
